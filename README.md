@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Saksham 👋
 
 <!--
 **GreyNinja92/GreyNinja92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm currently a final year computer science undergraduate student at NMIMS
+![Visitor Count](https://profile-counter.glitch.me/GreyNinja92/count.svg)
+- 💻 I love to code and design apps, websites, etc.
+- 📫 How to reach me: Twitter @SakshamKhatod
+
+
