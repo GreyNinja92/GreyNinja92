@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I'm a Computer Science Graduate from NMIMS.
+### Currently attending UIC for my masters
 ![Visitor Count](https://profile-counter.glitch.me/GreyNinja92/count.svg)
 - 💻 I love to code and design apps, websites, etc.
 - 📫 How to reach me: Twitter @SakshamKhatod
